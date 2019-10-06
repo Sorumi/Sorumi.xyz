@@ -23,7 +23,7 @@ Github: [github.com/Sorumi/UnityRayTracingGem](<https://github.com/Sorumi/UnityR
 
 光线追踪是指从摄像机出发的若干条光线，每条光线会和场景里的物体求交，根据交点位置获取表面的材质、纹理等信息，并结合光源信息计算光照。相对于传统的光栅化渲染，光线追踪可以轻松模拟各种光学效果，如反射、折射、散射、色散等。但由于在进行求交计算时需要知道整个场景的信息，其计算成本非常高。
 
-关于如何在 Unity 中进行 Ray Tracing，我参考了 [GPU Ray Tracing in Unity](http://blog.three-eyed-games.com/) {:target="_blank"}这个系列的文章，使用了 Compute Shader 来实现。
+关于如何在 Unity 中进行 Ray Tracing，我参考了 [GPU Ray Tracing in Unity](http://blog.three-eyed-games.com/){:target="_blank"}这个系列的文章，使用了 Compute Shader 来实现。
 
 ##### 实时渲染宝石
 
