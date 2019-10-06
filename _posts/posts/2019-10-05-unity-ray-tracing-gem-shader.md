@@ -252,9 +252,15 @@ float3 Shade(inout Ray ray, RayHit hit, int depth)
 
 [![render](../../images/post/gemshader/render.png)](../../images/post/gemshader/render.png){:target="_blank"}
 
+ <video class="video" src="../../videos/unitygemshader.mp4" controls></video>
 
+##### 扩展阅读
 
-#### 参考
+[“Cheap” Diamond Rendering](https://medium.com/@bmind/cheap-diamond-rendering-e71203292674){:target="_blank"}
+
+这篇文章中通过烘焙模型内部的法线贴图为 Cubemap，来模拟 RayTracing，速度更快。但这种方法仍然有点费，每个像素点最多要进行 7 次 Cubemap 采样。而且在法线转折处会有明显的锯齿，虽然能通过提高 Cubemap 的精度来改善，但不能完全消除。
+
+##### 参考
 
 [GPU Ray Tracing in Unity](http://blog.three-eyed-games.com/){:target="_blank"}
 
