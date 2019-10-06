@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Unity Ray Tracing Fur Shader 光线追踪宝石着色器"
+title: "Unity Ray Tracing Gem Shader 光线追踪宝石着色器"
 date: 2019-10-05 13:00:00
 category: unity shader
 img: images/post/GemShader.png
