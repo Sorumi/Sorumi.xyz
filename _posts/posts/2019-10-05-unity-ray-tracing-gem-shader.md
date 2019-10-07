@@ -36,7 +36,7 @@ Github: [github.com/Sorumi/UnityRayTracingGem](<https://github.com/Sorumi/UnityR
 5. 光线仅在第一次与宝石表面相交时，被分为反射光线和折射光线，之后折射光线在宝石的内部进行全反射或其折射出宝石表面。
 6. 光线经过反射或折射，射出宝石表面后，对天空球进行采样。
 
-由于我们在着色器中传递整个模型数据，需要使用 `ComputeBuffer`，这一般是为 Compute Shader 提供的，要在一般的顶点像素着色器中使用，需要至少支持 shader model 4.5 。在 Shader 中，`ComputeBuffer` 在 Shader 中映射的数据类型为 `StructuredBuffer<T>` 和 `RWStructuredBuffer<T>` 。
+由于我们在着色器中传递整个模型数据，需要使用 `ComputeBuffer`，这一般是为 Compute Shader 提供的，要在一般的顶点像素着色器中使用，需要至少支持 shader model 4.5 。在 Shader 中，`ComputeBuffer` 映射的数据类型为 `StructuredBuffer<T>` 和 `RWStructuredBuffer<T>` 。
 
 
 
