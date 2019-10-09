@@ -198,16 +198,16 @@ const allPhotos = [
         date: "2018.11.29",
         description: "",
     },
-    {
-        name: "JK_01",
-        date: "2019.06.11",
-        description: "",
-    },
-    {
-        name: "JK_02",
-        date: "2019.06.19",
-        description: "",
-    },
+    // {
+    //     name: "JK_01",
+    //     date: "2019.06.11",
+    //     description: "",
+    // },
+    // {
+    //     name: "JK_02",
+    //     date: "2019.06.19",
+    //     description: "",
+    // },
     {
         name: "Dusk",
         date: "2019.06.27",
@@ -218,36 +218,36 @@ const allPhotos = [
         date: "2019.06.28",
         description: "",
     },
-    {
-        name: "TW_6",
-        date: "2019.06.28",
-        description: "",
-    },
+    // {
+    //     name: "TW_6",
+    //     date: "2019.06.28",
+    //     description: "",
+    // },
     {
         name: "TW_5",
         date: "2019.06.28",
         description: "",
     },
-    {
-        name: "TW_4",
-        date: "2019.06.28",
-        description: "",
-    },
-    {
-        name: "TW_3",
-        date: "2019.06.27",
-        description: "",
-    },
+    // {
+    //     name: "TW_4",
+    //     date: "2019.06.28",
+    //     description: "",
+    // },
+    // {
+    //     name: "TW_3",
+    //     date: "2019.06.27",
+    //     description: "",
+    // },
     {
         name: "TW_2",
         date: "2019.06.24",
         description: "",
     },
-    {
-        name: "TW_1",
-        date: "2019.06.23",
-        description: "",
-    },
+    // {
+    //     name: "TW_1",
+    //     date: "2019.06.23",
+    //     description: "",
+    // },
     {
         name: "Sea_8",
         date: "2019.06.30",
