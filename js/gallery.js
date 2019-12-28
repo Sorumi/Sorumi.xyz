@@ -278,4 +278,19 @@ const allPhotos = [
         date: "2019.06.27",
         description: "",
     },
+    {
+        name: "Jingan",
+        date: "2019.12.14",
+        description: "",
+    },
+    {
+        name: "Merikuri2019",
+        date: "2019.12.25",
+        description: "",
+    },
+    {
+        name: "Paper2019",
+        date: "2019.12.27",
+        description: "",
+    },
 ]
