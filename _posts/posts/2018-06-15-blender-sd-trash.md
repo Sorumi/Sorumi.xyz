@@ -5,6 +5,7 @@ date: 2018-06-15 13:00:00
 category: blender substancedesigner
 img: images/post/BlenderTrash.png
 comments: true
+published: false
 ---
 
 在学习 Blender 建模的时候思考怎么做一个网格置物桶，如果每一根铁丝都用多边形来表示，整个模型面数就会很高。为了增强渲染性能，最后使用带有透明通道的材质来实现，模拟出网格的效果。
