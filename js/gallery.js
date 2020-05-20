@@ -172,10 +172,6 @@ const allPhotos = [
         name: "PSV",
         date: "2017.10.23",
         description: "",
-    },{
-        name: "Paper2019",
-        date: "2019.12.27",
-        description: "",
     },
     {
         name: "Sakura",
