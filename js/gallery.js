@@ -222,11 +222,7 @@ const allPhotos = [
         date: "2019.06.27",
         description: "",
     },
-    {
-        name: "Fireworks",
-        date: "2019.06.28",
-        description: "",
-    },
+
     // {
     //     name: "TW_6",
     //     date: "2019.06.28",
@@ -285,6 +281,11 @@ const allPhotos = [
     {
         name: "Sea_2",
         date: "2019.06.27",
+        description: "",
+    },
+    {
+        name: "Fireworks",
+        date: "2019.06.28",
         description: "",
     },
     {
