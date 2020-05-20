@@ -14,12 +14,12 @@ const allPhotos = [
         date: "2014.01.21",
         description: "夜晚某地铁站",
     },
-    {
-        name: "Ice-cream",
-        date: "2014.04.26",
-        description: "抹茶冰淇淋",
+    // {
+    //     name: "Ice-cream",
+    //     date: "2014.04.26",
+    //     description: "抹茶冰淇淋",
 
-    },
+    // },
     {
         name: "Sims3",
         date: "2014.06.25",
