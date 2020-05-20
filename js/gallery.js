@@ -164,8 +164,17 @@ const allPhotos = [
         description: "",
     },
     {
+        name: "JK_03",
+        date: "2019.12.27",
+        description: "",
+    },
+    {
         name: "PSV",
         date: "2017.10.23",
+        description: "",
+    },{
+        name: "Paper2019",
+        date: "2019.12.27",
         description: "",
     },
     {
@@ -223,11 +232,11 @@ const allPhotos = [
     //     date: "2019.06.28",
     //     description: "",
     // },
-    {
-        name: "TW_5",
-        date: "2019.06.28",
-        description: "",
-    },
+    // {
+    //     name: "TW_5",
+    //     date: "2019.06.28",
+    //     description: "",
+    // },
     // {
     //     name: "TW_4",
     //     date: "2019.06.28",
@@ -238,11 +247,11 @@ const allPhotos = [
     //     date: "2019.06.27",
     //     description: "",
     // },
-    {
-        name: "TW_2",
-        date: "2019.06.24",
-        description: "",
-    },
+    // {
+    //     name: "TW_2",
+    //     date: "2019.06.24",
+    //     description: "",
+    // },
     // {
     //     name: "TW_1",
     //     date: "2019.06.23",
@@ -291,6 +300,16 @@ const allPhotos = [
     {
         name: "Paper2019",
         date: "2019.12.27",
+        description: "",
+    },
+    {
+        name: "Sakura_2",
+        date: "2020.04.04",
+        description: "",
+    },
+    {
+        name: "JK_04",
+        date: "2020.05.06",
         description: "",
     },
 ]
