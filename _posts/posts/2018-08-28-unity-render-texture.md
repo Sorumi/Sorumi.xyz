@@ -4,6 +4,7 @@ title: "Unity 使用 RenderTexture 生成透明背景截图"
 date: 2018-08-28 13:00:00
 category: unity cuberoom
 comments: true
+published: false
 ---
 
 CubeRoom 开发小记。

@@ -35,21 +35,21 @@ const allPhotos = [
         date: "2015.02.14",
         description: "冬天",
     },
-    {
-        name: "Owl",
-        date: "2015.02.18",
-        description: "猫头鹰",
-    },
-    {
-        name: "Bear",
-        date: "2015.04.29",
-        description: "好萌的松饼",
-    },
-    {
-        name: "Clouds",
-        date: "2015.06.05",
-        description: "",
-    },
+    // {
+    //     name: "Owl",
+    //     date: "2015.02.18",
+    //     description: "猫头鹰",
+    // },
+    // {
+    //     name: "Bear",
+    //     date: "2015.04.29",
+    //     description: "好萌的松饼",
+    // },
+    // {
+    //     name: "Clouds",
+    //     date: "2015.06.05",
+    //     description: "",
+    // },
     {
         name: "After-Rain",
         date: "2015.11.24",
@@ -77,17 +77,17 @@ const allPhotos = [
         date: "2016.07.22",
         description: "好天气",
     },
-    {
-        name: "WuZhen",
-        date: "2016.08.24",
-        description: "乌镇",
-    },
+    // {
+    //     name: "WuZhen",
+    //     date: "2016.08.24",
+    //     description: "乌镇",
+    // },
 
-    {
-        name: "Food",
-        date: "2016.09.15",
-        description: "中秋",
-    },
+    // {
+    //     name: "Food",
+    //     date: "2016.09.15",
+    //     description: "中秋",
+    // },
     {
         name: "Sky1",
         date: "2016.09.22",
@@ -103,31 +103,31 @@ const allPhotos = [
         date: "2017.07.20",
         description: "",
     },
-    {
-        name: "Japan_Gyouza",
-        date: "2017.07.20",
-        description: "",
-    },
+    // {
+    //     name: "Japan_Gyouza",
+    //     date: "2017.07.20",
+    //     description: "",
+    // },
     {
         name: "Japan_KiyomizuDera",
         date: "2017.07.20",
         description: "",
     },
-    {
-        name: "Japan_Nara",
-        date: "2017.07.20",
-        description: "",
-    },
-    {
-        name: "Japan_Niku",
-        date: "2017.07.20",
-        description: "",
-    },
-    {
-        name: "Japan_Osaka",
-        date: "2017.07.20",
-        description: "",
-    },
+    // {
+    //     name: "Japan_Nara",
+    //     date: "2017.07.20",
+    //     description: "",
+    // },
+    // {
+    //     name: "Japan_Niku",
+    //     date: "2017.07.20",
+    //     description: "",
+    // },
+    // {
+    //     name: "Japan_Osaka",
+    //     date: "2017.07.20",
+    //     description: "",
+    // },
     {
         name: "Japan_Osakako",
         date: "2017.07.20",
@@ -138,36 +138,36 @@ const allPhotos = [
         date: "2017.07.20",
         description: "",
     },
-    {
-        name: "Japan_Shinjyuku",
-        date: "2017.07.20",
-        description: "",
-    },
-    {
-        name: "Japan_Temizuya",
-        date: "2017.07.20",
-        description: "",
-    },
-    {
-        name: "Japan_Tenshukaku",
-        date: "2017.07.20",
-        description: "",
-    },
-    {
-        name: "Japan_Tokyo",
-        date: "2017.07.20",
-        description: "",
-    },
+    // {
+    //     name: "Japan_Shinjyuku",
+    //     date: "2017.07.20",
+    //     description: "",
+    // },
+    // {
+    //     name: "Japan_Temizuya",
+    //     date: "2017.07.20",
+    //     description: "",
+    // },
+    // {
+    //     name: "Japan_Tenshukaku",
+    //     date: "2017.07.20",
+    //     description: "",
+    // },
+    // {
+    //     name: "Japan_Tokyo",
+    //     date: "2017.07.20",
+    //     description: "",
+    // },
     {
         name: "Tamagochi",
         date: "2017.07.20",
         description: "",
     },
-    {
-        name: "JK_03",
-        date: "2019.12.27",
-        description: "",
-    },
+    // {
+    //     name: "JK_03",
+    //     date: "2019.12.27",
+    //     description: "",
+    // },
     {
         name: "PSV",
         date: "2017.10.23",
@@ -188,11 +188,11 @@ const allPhotos = [
         date: "2018.06.16",
         description: "",
     },
-    {
-        name: "Hitotsu",
-        date: "2018.07.15",
-        description: "",
-    },
+    // {
+    //     name: "Hitotsu",
+    //     date: "2018.07.15",
+    //     description: "",
+    // },
     {
         name: "Subway",
         date: "2018.09.03",
@@ -213,6 +213,11 @@ const allPhotos = [
     //     date: "2019.06.19",
     //     description: "",
     // },
+    {
+        name: "JK_04",
+        date: "2020.05.06",
+        description: "",
+    },
     {
         name: "Dusk",
         date: "2019.06.27",
@@ -249,21 +254,21 @@ const allPhotos = [
     //     date: "2019.06.23",
     //     description: "",
     // },
-    {
-        name: "Sea_8",
-        date: "2019.06.30",
-        description: "",
-    },
+    // {
+    //     name: "Sea_8",
+    //     date: "2019.06.30",
+    //     description: "",
+    // },
     {
         name: "Sea_4",
         date: "2019.06.30",
         description: "",
     },
-    {
-        name: "Sea_7",
-        date: "2019.06.30",
-        description: "",
-    },
+    // {
+    //     name: "Sea_7",
+    //     date: "2019.06.30",
+    //     description: "",
+    // },
     {
         name: "Sea_6",
         date: "2019.06.30",
@@ -274,26 +279,26 @@ const allPhotos = [
         date: "2019.06.29",
         description: "",
     },
-    {
-        name: "Sea_2",
-        date: "2019.06.27",
-        description: "",
-    },
+    // {
+    //     name: "Sea_2",
+    //     date: "2019.06.27",
+    //     description: "",
+    // },
     {
         name: "Fireworks",
         date: "2019.06.28",
         description: "",
     },
-    {
-        name: "Jingan",
-        date: "2019.12.14",
-        description: "",
-    },
-    {
-        name: "Merikuri2019",
-        date: "2019.12.25",
-        description: "",
-    },
+    // {
+    //     name: "Jingan",
+    //     date: "2019.12.14",
+    //     description: "",
+    // },
+    // {
+    //     name: "Merikuri2019",
+    //     date: "2019.12.25",
+    //     description: "",
+    // },
     {
         name: "Paper2019",
         date: "2019.12.27",
@@ -305,8 +310,28 @@ const allPhotos = [
         description: "",
     },
     {
-        name: "JK_04",
-        date: "2020.05.06",
+        name: "NorthSiChuanRoad",
+        date: "2021.04.05",
+        description: "",
+    },
+    {
+        name: "KunMing",
+        date: "2021.03.06",
+        description: "",
+    },
+    {
+        name: "YunNan_Duck",
+        date: "2021.03.07",
+        description: "",
+    },
+    {
+        name: "Dali",
+        date: "2021.03.08",
+        description: "",
+    },
+    {
+        name: "LuGuHu",
+        date: "2021.03.13",
         description: "",
     },
 ]
