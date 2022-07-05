@@ -325,7 +325,7 @@ const allPhotos = [
         description: "",
     },
     {
-        name: "Dali",
+        name: "DaLi",
         date: "2021.03.08",
         description: "",
     },
